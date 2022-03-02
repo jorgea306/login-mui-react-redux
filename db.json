@@ -1,0 +1,40 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "carlos",
+            "apellido": "alberto",
+            "sexo": "masculino",
+            "dni": 33906336,
+            "domicilio": "Prado 135",
+            "financiador": "opcion 1"
+        },
+        {
+            "id": 1,
+            "nombre": "juan",
+            "apellido": "marcelo",
+            "sexo": "masculino",
+            "dni": 33906336,
+            "domicilio": "Prado 135",
+            "financiador": "opcion 1"
+        },
+        {
+            "id": 1,
+            "nombre": "maria",
+            "apellido": "aguero",
+            "sexo": "femenino",
+            "dni": 33906336,
+            "domicilio": "Prado 135",
+            "financiador": "opcion 1"
+        },
+        {
+            "id": 1,
+            "nombre": "gabriela",
+            "apellido": "mendoza",
+            "sexo": "x",
+            "dni": 33906336,
+            "domicilio": "Prado 135",
+            "financiador": "opcion 1"
+        }
+    ]
+}
