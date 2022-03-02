@@ -60,7 +60,7 @@ export default function Login() {
               variant="contained"
               sx={{ mt: 3, mb: 2 }}
             >
-              Iniciar Sesion
+              Iniciar Sesion --
             </Button>
           </Box>
         </Box>
